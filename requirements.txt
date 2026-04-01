@@ -1,0 +1,5 @@
+customtkinter
+pillow
+requests
+paramiko
+# telnetlib3 # for advanced telnet
